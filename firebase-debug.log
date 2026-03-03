@@ -1,0 +1,32 @@
+[debug] [2026-03-03T19:01:48.112Z] ----------------------------------------------------------------------
+[debug] [2026-03-03T19:01:48.118Z] Command:       C:\Program Files\nodejs\node.exe C:\Users\PRATHMESH\AppData\Roaming\npm\node_modules\firebase-tools\lib\bin\firebase.js init
+[debug] [2026-03-03T19:01:48.119Z] CLI Version:   15.8.0
+[debug] [2026-03-03T19:01:48.119Z] Platform:      win32
+[debug] [2026-03-03T19:01:48.119Z] Node Version:  v22.18.0
+[debug] [2026-03-03T19:01:48.120Z] Time:          Wed Mar 04 2026 00:31:48 GMT+0530 (India Standard Time)
+[debug] [2026-03-03T19:01:48.120Z] ----------------------------------------------------------------------
+[debug] 
+[info] 
+     ######## #### ########  ######## ########     ###     ######  ########
+     ##        ##  ##     ## ##       ##     ##  ##   ##  ##       ##
+     ######    ##  ########  ######   ########  #########  ######  ######
+     ##        ##  ##    ##  ##       ##     ## ##     ##       ## ##
+     ##       #### ##     ## ######## ########  ##     ##  ######  ########
+
+You're about to initialize a Firebase project in this directory:
+
+  E:\productive_os\productive-os
+
+[debug] [2026-03-03T19:02:21.723Z] ExitPromptError: User force closed the prompt with SIGINT
+    at Interface.sigint (C:\Users\PRATHMESH\AppData\Roaming\npm\node_modules\firebase-tools\node_modules\@inquirer\core\dist\commonjs\lib\create-prompt.js:101:37)
+    at Interface.emit (node:events:518:28)
+    at [_ttyWrite] [as _ttyWrite] (node:internal/readline/interface:1132:18)
+    at ReadStream.onkeypress (node:internal/readline/interface:271:20)
+    at ReadStream.emit (node:events:530:35)
+    at emitKeys (node:internal/readline/utils:370:14)
+    at emitKeys.next (<anonymous>)
+    at ReadStream.onData (node:internal/readline/emitKeypressEvents:64:36)
+    at ReadStream.emit (node:events:518:28)
+    at addChunk (node:internal/streams/readable:561:12)
+[error] 
+[error] Error: An unexpected error has occurred.
